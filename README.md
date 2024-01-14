@@ -1,6 +1,6 @@
 # :rocket: Olá pessoal 👋
 
-Meu nome é Paulo Barros, sou Back-end desde 2023. Concluí o curso de Desenvolvimento de Software com foco em Back-End na instituição @[@cubosacademy](https://cubos.academy/) patrocinado pela ação social do iFood. Atualmente, estou iniciando a faculdade do curso de Análise de Desenvolvimento de Sistemas pela Faculdade de Ciências Humanas "ESUDA". Compartilho meus conhecimentos e experiências com outros devs, agradecendo especialmente ao iFood pelo patrocínio dessa oportunidade. O iFood tem sido um grande divisor de águas em minha vida, e sou muito grato por essa oportunidade que impactou positivamente meu caminho profissional.
+Meu nome é Paulo Barros, sou Back-end desde 2023. Concluí o curso de Desenvolvimento de Software com foco em Back-End na instituição [@cubosacademy](https://cubos.academy/) patrocinado pela ação social do iFood. Atualmente, estou iniciando a faculdade do curso de Análise de Desenvolvimento de Sistemas pela Faculdade de Ciências Humanas "ESUDA". Compartilho meus conhecimentos e experiências com outros devs, agradecendo especialmente ao iFood pelo patrocínio dessa oportunidade. O iFood tem sido um grande divisor de águas em minha vida, e sou muito grato por essa oportunidade que impactou positivamente meu caminho profissional.
 
 ## :globe_with_meridians:Para me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-barros-3bb732270/)
