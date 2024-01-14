@@ -19,4 +19,4 @@ Meu nome é Paulo Barros, sou Back-end desde 2023. Concluí o curso de Desenvolv
 
 > É mais fácil pedir pedão do que permissão  - Grace Hopper
 
-![Pricipais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335)
+![Pricipais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335&theme=tokyonight&hide_border=true)
