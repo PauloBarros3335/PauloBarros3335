@@ -39,7 +39,6 @@ Meu nome é Paulo Barros, sou Back-end desde 2023. Concluí o curso de Desenvolv
 ## :label: Badges Adicionais:
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 > É mais fácil pedir perdão do que permissão - Grace Hopper
 
