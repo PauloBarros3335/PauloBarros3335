@@ -1,6 +1,31 @@
 # :rocket: Olá pessoal 👋
 
-Meu nome é Paulo Barros, sou Back-end desde 2023. Concluí o curso de Desenvolvimento de Software com foco em Back-End na instituição [@cubosacademy](https://cubos.academy/) patrocinado pela ação social do iFood. Atualmente, estou iniciando a faculdade do curso de Análise de Desenvolvimento de Sistemas pela Faculdade de Ciências Humanas "ESUDA". Compartilho meus conhecimentos e experiências com outros devs, agradecendo especialmente ao iFood pelo patrocínio dessa oportunidade. O iFood tem sido um grande divisor de águas em minha vida, e sou muito grato por essa oportunidade que impactou positivamente meu caminho profissional.
+## Paulo Henrique de Barros
+### Desenvolvedor de Software
+
+**Localização:** Recife, Pernambuco, Brasil  
+**Email:** barrosp3335@gmail.com  
+**GitHub:** PauloBarros3335  
+**LinkedIn:** Paulo Barros  
+**Telefone:** (81) 98841-1295
+
+---
+
+### Objetivo Profissional
+Busco oportunidades como Desenvolvedor de Software, aplicando minhas habilidades em Node.js, JavaScript, React, Python, PostgreSQL e Git.
+
+### Resumo Profissional
+Desenvolvedor apaixonado por tecnologia, com experiência em back-end e front-end. Concluí cursos na Cubos Academy e ALURA, além de certificações em segurança de endpoints e cibersegurança pela CESAR School. Atualmente, estudo Análise e Desenvolvimento de Sistemas na ESUDA.
+
+### Competências
+- Node.js, Express, PostgreSQL
+- JavaScript, React, CSS
+- Desenvolvimento de APIs
+- Metodologias ágeis (Scrum, Kanban)
+- Python
+
+### Projetos e Experiência
+Desenvolvedor Back-end desde 2023, com formação pela @cubosacademy patrocinada pelo iFood. Estudante de Análise de Desenvolvimento de Sistemas na ESUDA. Grato ao iFood pelo apoio que transformou minha carreira.
 
 ## :globe_with_meridians:Para me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-barros-3bb732270/)
