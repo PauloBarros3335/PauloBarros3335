@@ -43,6 +43,6 @@ Desenvolvedor Back-end desde 2023, com formação pela @cubosacademy patrocinada
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-> É mais fácil pedir pedão do que permissão  - Grace Hopper
+> É mais fácil pedir perdão do que permissão  - Grace Hopper
 
 ![Pricipais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335&theme=tokyonight&hide_border=true)
