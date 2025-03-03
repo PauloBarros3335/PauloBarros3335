@@ -7,7 +7,7 @@
 **📧 Email:** barrosp3335@gmail.com  
 **💻 GitHub:** [PauloBarros3335](https://github.com/PauloBarros3335)  
 **🔗 LinkedIn:** [Paulo Barros](https://www.linkedin.com/in/paulo-barros-3bb732270/)  
-**📞 Telefone:** (81) 98841-1295
+
 
 ---
 
