@@ -12,7 +12,7 @@
 ---
 
 ### 🎯 Objetivo Profissional
-Busco oportunidades como **Desenvolvedor Full Stack**, onde possa aplicar minhas habilidades em **Node.js, JavaScript, React, Python, PostgreSQL e Git** para criar soluções inovadoras e escaláveis. Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes multidisciplinares e continuar evoluindo como profissional de tecnologia.
+Busco oportunidades como **Desenvolvedor Full Stack**, onde possa aplicar minhas habilidades em **C#,.Net,Git, GitHub, Poo,SQL, SQL Server, MondoDB, Docker, kubernetes, Cloud Node.js, JavaScript, React, Python, PostgreSQL e Git** para criar soluções inovadoras e escaláveis. Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes multidisciplinares e continuar evoluindo como profissional de tecnologia.
 
 ---
 
@@ -23,9 +23,9 @@ Desenvolvedor apaixonado por tecnologia, com experiência em **back-end e front-
 
 ### 💼 Competências Técnicas
 
-- **Linguagens:** JavaScript, Python, HTML5, CSS3
+- **Linguagens:** C#,.Net, POO, SQL, SQL, Docker, Kubernetes, Cloud JavaScript, Python, 
 - **Frameworks e Bibliotecas:** Node.js, Express, React
-- **Banco de Dados:** PostgreSQL
+- **Banco de Dados:** PostgreSQL,SQL Server, MondoDB 
 - **Ferramentas de Controle de Versão:** Git, GitHub
 - **Metodologias Ágeis:** Scrum, Kanban
 - **Outras Habilidades:** Desenvolvimento de APIs RESTful, Segurança de Endpoints
