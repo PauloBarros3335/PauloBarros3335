@@ -1,7 +1,7 @@
 # :rocket: Olá pessoal 👋
 
 ## Paulo Henrique de Barros
-### Desenvolvedor Full Stack
+### Desenvolvedor Back-End 
 
 **📍 Localização:** Recife, Pernambuco, Brasil  
 **📧 Email:** barrosp3335@gmail.com  
