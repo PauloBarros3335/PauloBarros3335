@@ -63,24 +63,46 @@ Desenvolvedor apaixonado por tecnologia, com experiência em **back-end e front-
 ---
 
 ### 🛠️ Hard Skills:
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/AI-FF6347?style=for-the-badge&logo=brain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitBash](https://img.shields.io/badge/GitBash-2C2C2C?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-![C#](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/csharp-badge.png)
-![Entity Framework](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/entityframework-badge.png)
-
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ---
 
 ### 📊 Estatísticas do GitHub
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335&theme=tokyonight&hide_border=true)
+<h3 align="left">📊 Estatísticas do GitHub</h3>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarros3335&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
+    alt="Principais Linguagens de Paulo Barros" 
+    height="180px"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PauloBarros3335&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Estatísticas Gerais do GitHub" 
+    height="180px"
+    style="margin-left: 15px;"
+  />
+</div>
+
+
+
 
 ---
 
