@@ -12,7 +12,7 @@
 ---
 
 ### 🎯 Objetivo Profissional
-Busco oportunidades como **Desenvolvedor Full Stack**, onde possa aplicar minhas habilidades em **C#,.Net,Git, GitHub, Poo,SQL, SQL Server, MondoDB, Docker, kubernetes, Cloud Node.js, JavaScript, React, Python, PostgreSQL e Git** para criar soluções inovadoras e escaláveis. Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes multidisciplinares e continuar evoluindo como profissional de tecnologia.
+Busco oportunidades como **Desenvolvedor  Back-End**, onde possa aplicar minhas habilidades em **C#,.Net,Git, GitHub, Poo,SQL, SQL Server, MondoDB, Docker, kubernetes, Cloud Node.js, JavaScript, React, Python, PostgreSQL e Git** para criar soluções inovadoras e escaláveis. Meu objetivo é contribuir para projetos desafiadores, colaborar com equipes multidisciplinares e continuar evoluindo como profissional de tecnologia.
 
 ---
 
