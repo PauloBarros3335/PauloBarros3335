@@ -72,7 +72,9 @@ Desenvolvedor apaixonado por tecnologia, com experiência em **back-end e front-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+![C#](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/csharp-badge.png)
+![Entity Framework](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/entityframework-badge.png)
 
 ---
 
