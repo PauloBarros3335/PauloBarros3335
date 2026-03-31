@@ -63,6 +63,7 @@ Desenvolvedor apaixonado por tecnologia, com experiência em **back-end e front-
 ---
 
 ### 🛠️ Hard Skills:
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
